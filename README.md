@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Shayan Vatsa pursuing Bachelors in Computer science Engineering with majors in Cybersecurity. I am a passionate developer and cybersec enthusiast.
+Hi, I am Shayan Vatsa pursuing Bachelors in Computer science Engineering with majors in Cybersecurity. I am a passionate developer and Cybersecurity enthusiast.
 
 
 ## 🌐 Socials:
